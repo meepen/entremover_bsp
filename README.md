@@ -1,4 +1,4 @@
-usage: <executable> <output bsp name> <output lump name>
+usage: [executable] [output bsp name] [output lump name]
 
 
 #Example
